@@ -1,2 +1,2 @@
-# Wooden-Calculator
+# Calculator
  
